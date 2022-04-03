@@ -16,5 +16,12 @@ surge link:
 http://stakingchallenge.surge.sh/
 
 
+challenge-2
+
+contract address: https://rinkeby.etherscan.io/address/0x0C5cF30Df6C0727D39b932599D5a9aBdF9093f15#code
+
+surge link: http://ditovendor.surge.sh/
+
+
 speed run ethereum profile link:
 https://speedrunethereum.com/builders/0xdAb56ad87BeAF7FC4139Be7A13f3689b02Fb831f
