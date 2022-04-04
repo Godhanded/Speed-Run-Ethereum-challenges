@@ -29,9 +29,10 @@ contract Vendor is Ownable {
   }
 
   // ToDo: create a sellTokens() function:
-  function sellTokens(uint256 amount)public payable{
+  function sellTokens(uint256 amount)public {
     yourToken.transferFrom(msg.sender, address(this), amount);
-    payable(msg.sender).transfer((amount* 1 ether)/100);
+    (bool sent , )=payable(msg.sender).call{value: (amount/100)}("");
+    require(sent, "Failed to transfer token from user to vendor");
   }
 
 }
