@@ -26,3 +26,7 @@ surge link: http://ditovendors.surge.sh/
 
 speed run ethereum profile link:
 https://speedrunethereum.com/builders/0xdAb56ad87BeAF7FC4139Be7A13f3689b02Fb831f
+
+
+build guild profile link:
+https://bazaar.buidlguidl.com/builders/0xdAb56ad87BeAF7FC4139Be7A13f3689b02Fb831f
