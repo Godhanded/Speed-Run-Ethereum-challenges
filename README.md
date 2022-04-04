@@ -18,7 +18,8 @@ http://stakingchallenge.surge.sh/
 
 challenge-2
 
-contract address: https://rinkeby.etherscan.io/address/0x0C5cF30Df6C0727D39b932599D5a9aBdF9093f15#code
+contract address: 
+https://rinkeby.etherscan.io/address/0x80E2a3d6edE2e3C7132B3c1768a07226B76A5dC4#code
 
 surge link: http://ditovendor.surge.sh/
 
